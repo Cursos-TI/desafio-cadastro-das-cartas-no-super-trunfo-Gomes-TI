@@ -57,4 +57,3 @@ printf("A populacao: %d\n", populacao);
     printf("PIB per Capita (R$): %.2f\n", c2.pib_per_capita);
 
     return 0;
-}
